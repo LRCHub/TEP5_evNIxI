@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Hit The Bong",
+  "base_artist": "ジャパニーズ マゲニーズ",
+  "createdAt": "2025-12-04T19:08:08.246975Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hit The Bong (Radio Edit)",
+      "artist": "Psyko Punkz",
+      "has_synced": true,
+      "path": "select/01_Hit_The_Bong_(Radio_Edit)_Psyko_Punkz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hit The Bong",
+      "artist": "Psyko Punkz",
+      "has_synced": true,
+      "path": "select/02_Hit_The_Bong_Psyko_Punkz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "is it wrong to hit the bong? (feat. Fred Figglehorn)",
+      "artist": "doublekushpack+",
+      "has_synced": false,
+      "path": "select/03_is_it_wrong_to_hit_the_bong__(feat._Fred_Figglehorn)_doublekushpack+.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hit The Bong (feat. VOCA Luciano)",
+      "artist": "ジャパニーズマゲニーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Hit_The_Bong_(feat._VOCA_Luciano)_ジャパニーズマゲニーズ.txt"
+    }
+  ]
+}
